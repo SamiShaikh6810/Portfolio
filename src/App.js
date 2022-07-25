@@ -1,3 +1,4 @@
+import "./assets/styles/css/dist/app.min.css";
 
 function App() {
   return (
